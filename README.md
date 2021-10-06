@@ -1,6 +1,6 @@
 # Cryptocurrency Synchronization with Messari
 
-XXX
+_Cryptocurrency Synchronization with Messari using asyncio, a Python Library to write concurrent code using the async/await syntax._
 
 #### Setting up the code:
 
